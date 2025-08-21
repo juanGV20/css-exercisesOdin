@@ -1,0 +1,17 @@
+.impar{
+    background-color: rgb(181, 94, 109);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#segundoElemento{
+    color: rgb(0, 81, 255);
+    font-size: 36px;
+}
+
+#cuartoElemento{
+    background-color: rgb(21, 147, 27);
+    font-weight: bold;
+}
+
+.tamañoLetra{
+    font-size: 24px;
+}
